@@ -2,4 +2,4 @@
 SCM assignment repo
 
 Included are my portion of a group project from Networking last semester, and my current resume.
-The requested memo is added as a submission comment on Canvas.
+The requested memo is added as a submission comment on Canvas, and in the submission file w/ the URL to this repo.
